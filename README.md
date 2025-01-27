@@ -261,7 +261,7 @@ See the **[Acknowledgements](https://github.com/iamsainikhil/weather-react/wiki/
 ## Interaction Study
 
 ### Flood Alert Interaction
-A flood alert feature was added to simulate a real-world use case. When the application detects heavy rainfall (≥20 mm/hour), it displays a red banner at the top of the screen with the text "Flood Alert: Heavy Rainfall Detected."
+A flood alert feature was added to simulate a real-world use case. When the application detects heavy rainfall (≥20 mm/hour), it displays a red banner at the top of the screen with the text "Flood Alert: Heavy Rainfall Expected!"
 
 ### Example UI
 Below are indicative screenshots of the application UI:
