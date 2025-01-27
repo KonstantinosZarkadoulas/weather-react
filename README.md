@@ -256,4 +256,27 @@ Email: **[contact@iamsainikhil.com](mailto:contact@iamsainikhil.com)**
 
 ## 🙏 Acknowledgements
 
-See the **[Acknowledgements](https://github.com/iamsainikhil/weather-react/wiki/Acknowledgements)** page on the wiki for a list of Acknowledgements for Weather React codebase.
+See the **[Acknowledgements](https://github.com/iamsainikhil/weather-react/wiki/Acknowledgements)** page on the wiki for a list of Acknowledgements for Weather React codebase.  
+
+## Interaction Study
+
+### Flood Alert Interaction
+A flood alert feature was added to simulate a real-world use case. When the application detects heavy rainfall (≥20 mm/hour), it displays a red banner at the top of the screen with the text "Flood Alert: Heavy Rainfall Detected."
+
+### Example UI
+Below are indicative screenshots of the application UI:
+
+- **Flood Alert Banner**:
+  The flood alert banner is visible at the top of the page, providing a clear warning to the user.
+
+  ![Flood Alert Example](./public/flood-alert.png)
+
+- **Weather Information**:
+  The main weather information is displayed below the alert banner, showing dynamic weather data for the user.
+
+  ![Weather Information](./public/weather-ui.png)
+
+### How It Works
+- The feature was added in the `App.js` file, where weather data is simulated and processed to trigger a flood alert when rainfall exceeds a set threshold.
+- This functionality demonstrates the application's ability to alert users to hazardous conditions, aligning with the interaction goals of the project.
+
