@@ -280,6 +280,6 @@ Below are indicative screenshots of the application UI:
 - The feature was added in the `App.js` file, where weather data is simulated and processed to trigger a flood alert when rainfall exceeds a set threshold.
 - This functionality demonstrates the application's ability to alert users to hazardous conditions, aligning with the interaction goals of the project.
 
-- ![Flood Alert Example](./public/Weather_app_erg2.png) 
+- ![Flood Alert Example](./public/weather-react-app2.png) 
 
 
